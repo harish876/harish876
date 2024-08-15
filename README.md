@@ -1,6 +1,6 @@
 # Hi there, I'm Harish! 👋
 
-Welcome to my GitHub profile! I use Neovim btw. I love databases, distributed systems and dev tools
+Welcome to my GitHub profile! I use Neovim btw. I love databases, interpreters, distributed systems, and dev tools
 
 ## 🚀 What I Do
 
