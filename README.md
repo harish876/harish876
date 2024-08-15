@@ -1,6 +1,6 @@
 # Hi there, I'm Harish! 👋
 
-Welcome to my GitHub profile! I’m a passionate software engineer with a strong focus on full-stack development, distributed systems, and innovative technology solutions.
+Welcome to my GitHub profile! I use Neovim btw. I love databases, distributed systems and dev tools
 
 ## 🚀 What I Do
 
