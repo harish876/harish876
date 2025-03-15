@@ -25,10 +25,9 @@ Welcome to my GitHub profile! I use Neovim btw. I love databases, interpreters, 
 
 ## 🌱 Currently Building
 
-- A database from scratch
-- A web framework from scratch
-- Converting bytes to structs
-- Configuring neovim
+- [A database from scratch](https://github.com/harish876/ScratchDB) ⏳
+- [Benchmarking and Profiling Web Servers and databases](https://github.com/harish876/WebServerPerf) ⏳
+- [A web framework from scratch](https://github.com/harish876/disel)  ✅ 
 
 ## 📫 How to Reach Me
 
